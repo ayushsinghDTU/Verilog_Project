@@ -1,0 +1,12 @@
+## step to run a verilog file;
+
+1. create verilog file hello_tb.v
+2. create testbranch for it 
+3. run this commant in terminal "iverilog -o hello_tb.vvp hello_tb.v"
+4.then run this " vvp hello_tb.vvp" 
+5. to view the waveform " gtkwave"
+6. gtkwave window opened then go to file and open hello_tb.vcd
+7. select it and see waveform.
+------------------------------------------------>
+
+
